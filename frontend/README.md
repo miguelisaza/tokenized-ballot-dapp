@@ -1,5 +1,7 @@
 
 # Tokenized Ballot App Frontend
+![image](https://github.com/miguelisaza/tokenized-ballot-dapp/assets/18253315/2ff48c74-cbc1-4a98-926a-7131d8eedb96)
+
 
 ## Installation
 
